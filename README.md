@@ -12,10 +12,6 @@ This project was independently developed to gain a fundamental understanding of 
 - [W3Schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
-## **Live Demo:**
-- Version1: [PortfolioSite.html](https://raw.githack.com/kokonutzlabs/Portfolio-Website-HTML-CSS-Javascript-/main/portfolio/index/index.html)
-- Version2: [Revised PortfolioSite.html](https://raw.githack.com/kokonutzlabs/Portfolio-Website-HTML-CSS-Javascript-/main/portfolio_v2/HTML/index)
-    
 ## **Alt Way to View the Project Locally**
 1. Download all project files and folders.
 2. Place all downloaded files into a single directory.
@@ -26,7 +22,3 @@ This project was independently developed to gain a fundamental understanding of 
 7. The project will open in your local browser.
 
 ## **Future Changes**
-
-
-
-
