@@ -12,13 +12,4 @@ This project was independently developed to gain a fundamental understanding of 
 - [W3Schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
-## **Alt Way to View the Project Locally**
-1. Download all project files and folders.
-2. Place all downloaded files into a single directory.
-3. Install Visual Studio Code.
-4. Install the Live Preview extension.
-5. Open the project folder in Visual Studio Code.
-6. Right-click the .html file and select Live Preview.
-7. The project will open in your local browser.
-
 ## **Future Changes**
