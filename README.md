@@ -11,5 +11,3 @@ This project was independently developed to gain a fundamental understanding of 
 ## **Resources Referenced:**
 - [W3Schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-
-## **Future Changes**
